@@ -7,5 +7,9 @@
 2. Create *Screen Flow* to register new **Gym Visits**. Fields: date, type. If Type is **Gold**, show up second screen to choose **Trainer Name** (create look up to **Contact**). Place flow as link in **Gym Visits** List. 
 
    <img src="Images/Task2_Flow_builder_overview.png">
-
+   <br>
+   <img src="Images/New_gym_visit_flow_preview1.png">
+   <br>
+   <img src="Images/New_gym_visit_flow_preview1.png">
+   <br>
    <img src="Images/Gym_visits_List_view_buttons.png">
