@@ -12,4 +12,5 @@
    <br>
    <img src="Images/New_gym_visit_flow_preview1.png">
    <br>
+
    <img src="Images/Gym_visits_List_view_buttons.png">
